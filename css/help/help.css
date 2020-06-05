@@ -1,0 +1,17 @@
+.help{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+.help a{
+    margin-left: 50px;
+}
+.help a:hover{
+    color: rgb(255, 0, 85);
+}
+.my-detail{
+    text-align: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
