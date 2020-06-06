@@ -5,7 +5,7 @@
     font-weight: bold;
 }
 .help a{
-    margin-left: 50px;
+    margin-right: 50px;
 }
 .help a:hover{
     color: rgb(255, 0, 85);
