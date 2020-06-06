@@ -71,5 +71,6 @@
       display: flex;
   }
   .ul{
-      margin-left: 100px;
+      margin-left: 50px;
+      text-align: left;
   }

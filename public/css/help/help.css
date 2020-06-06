@@ -3,9 +3,11 @@
     margin-top: 50px;
     margin-bottom: 50px;
     font-weight: bold;
+    flex-direction: row;
+    align-items: center;
 }
 .help a{
-    margin-right: 50px;
+    margin-right: 40px;
 }
 .help a:hover{
     color: rgb(255, 0, 85);
