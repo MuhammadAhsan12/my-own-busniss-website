@@ -1,0 +1,19 @@
+.about{
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.aboutimage{
+    text-align: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.aboutimg{
+    width: 1000px;
+}
+.color{
+    background-color: rgb(253, 253, 253);
+}
